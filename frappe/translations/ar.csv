@@ -19,7 +19,7 @@ Administrator,مدير,
 All Day,كل يوم,
 Allow Delete,السماح بالحذف,
 Amended From,معدل من,
-Amount,كمية,
+Amount,المبلغ,
 Applicable For,قابل للتطبيق ل,
 Approval Status,حالة الموافقة,
 Assign,عين,
@@ -52,7 +52,7 @@ Content,محتوى,
 Content Type,نوع المحتوى,
 Create,انشاء,
 Created By,منشئه بواسطه,
-Current,تيار,
+Current,حالية,
 Custom HTML,مخصصةHTML,
 Custom?,مخصص,
 Date Format,تنسيق التاريخ,
@@ -121,7 +121,7 @@ Kanban Board,لوح كانبان,
 Label,ملصق,
 Language Name,اسم اللغة,
 Last Name,اسم العائلة,
-Leaderboard,المتصدرين,
+Leaderboard,لوحة النقاط,
 Letter Head,ترئيس الرسالة,
 Level,المستوى,
 Limit,حد,
@@ -2018,7 +2018,7 @@ Reference DocName,مرجع DocName,
 Reference DocType and Reference Name are required,مطلوب مرجع دوكتيب واسم مرجع,
 Reference Report,تقرير مرجعي,
 Reference: {0} {1},إشارة: {0} {1},
-Refreshing...,يحديث ...,
+Refreshing...,تحديث ...,
 Register OAuth Client App,تسجيل أوث العميل التطبيقات,
 Registered but disabled,سجل لكن المعوقين,
 Relapsed,انتكس,
@@ -3387,7 +3387,7 @@ Is Tree,هي شجرة,
 JSON Request Body,طلب JSON الجسم,
 Javascript is disabled on your browser,تم تعطيل Javascript على متصفحك,
 Job,الوظيفة,
-Jump to field,القفز الى الميدان,
+Jump to field,الإنتقال إلى الخانة,
 Keyboard Shortcuts,اختصارات لوحة المفاتيح,
 LDAP Group,مجموعة LDAP,
 LDAP Group Field,حقل مجموعة LDAP,
@@ -3718,7 +3718,7 @@ Doctype,DOCTYPE,
 Download Template,تحميل الوثيقة,
 Dr,Dr,
 Due Date,بسبب تاريخ,
-Duplicate,مكررة,
+Duplicate,تكرار,
 Edit Profile,تعديل الملف الشخصي,
 Email,البريد الإلكتروني,
 End Time,وقت الانتهاء,
@@ -4639,7 +4639,7 @@ Not permitted to view {0},غير مسموح بمشاهدة {0},
 Camera,الة تصوير,
 Invalid filter: {0},مرشح غير صالح: {0},
 Let's Get Started,هيا بنا نبدأ,
-Reports & Masters,التقارير والماجستير,
+Reports & Masters,التقارير الرئيسية والاختصارات,
 New {0} {1} added to Dashboard {2},تمت إضافة {0} {1} جديد إلى لوحة التحكم {2},
 New {0} {1} created,تم إنشاء {0} {1} جديد,
 New {0} Created,جديد {0} تم إنشاؤه,
@@ -4700,3 +4700,41 @@ Value cannot be negative for {0}: {1},لا يمكن أن تكون القيمة �
 Negative Value,قيمة سالبة,
 Authentication failed while receiving emails from Email Account: {0}.,فشلت المصادقة أثناء تلقي رسائل البريد الإلكتروني من حساب البريد الإلكتروني: {0}.,
 Message from server: {0},رسالة من الخادم: {0},
+My Profile,ملفي الشخصي,
+My Settings,إعداداتي,
+Toggle Full Width,وضعية الشاشة الكاملة,
+Domains,القطاعات,
+Modules,التطبيقات,
+Build,البناء,
+POS Awesome,نقاط البيع المطورة,
+POS Opening Shift,فتح مناوبة نقاط البيع,
+POS Closing Shift,غلق مناوبة نقاط البيع,
+POS Offers,عروض نقاط البيع,
+Bank Reconciliation Tool,أداة تسوية الحسابات البنكية,
+Items to Order and Receive,منتجات بانتظار الطلب أو الإستلام,
+Employees Working on a Holiday,موظفين يعملون أثناء الإجازة,
+Leave Policy Assignment,تعيين سياسة الإجازة,
+Compensations,تعويضات,
+Taxation,تحصيل الضرائب,
+Employee Hours Utilization,استغلال ساعات الموظفين,
+Project Profitability,ربح المشروع,
+Delayed Tasks Summary,ملخص المهام المتأخرة,
+Feedback,تعليق,
+Masters & Reports,التقارير الرئيسية والاختصارات,
+Quick Access,الوصول السريع,
+Incorrect Data Report,تقارير البيانات غير الصحيحة,
+Incorrect Balance Qty After Transaction,كمية غير صحيحة بعد عملية,
+Incorrect Serial No Valuation,رقم تسلسلي غير صحيح ، بدون تقدير,
+Forecasting,التوقع,
+Settings & Configurations,الإعدادات,
+Opening & Closing,الفتح والإغلاق,
+Permission Manager,مدير الصلاحيات,
+Unit of Measure (UOM),وحدات القياس,
+Items & Pricing,المنتجات والأسعار,
+Reset Customizations,حذف التعديلات,
+Donation,التبرع,
+Non Profit Settings,إعدادات الغير ربحية,
+Active Suppliers,الموردين النشطين,
+Education,التعليم,
+Profit and Loss,الربح والخسارة,
+Total Outgoing Bills,إجمالي فواتير المبيعات,
